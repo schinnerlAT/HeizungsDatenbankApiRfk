@@ -1,0 +1,5 @@
+Check zeep out:
+https://docs.python-zeep.org/en/master/
+
+Also API requireds basicAuth:
+https://docs.python-zeep.org/en/master/transport.html#http-authentication
